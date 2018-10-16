@@ -1,3 +1,49 @@
 /*# sourceMappingURL=main.scss.map */
+.NormalCharacterStyle {
+  font-family: Acumin Variable Concept;
+  font-weight: bold;
+  font-size: 59px;
+  color: #000000;
+  color: rgb(0, 0, 0);
+}
+
+.fall-fashion-1 {
+  padding: .5rem;
+}
+
+.paragraph {
+  float: left;
+}
+
+h1 {
+  margin-left: 20rem;
+  font-family: 'Francois One', sans-serif;
+  float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 50px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #fff500;
+  color: black;
+}
 
 /*# sourceMappingURL=main.css.map */
