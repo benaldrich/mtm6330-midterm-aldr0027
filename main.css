@@ -1,23 +1,34 @@
-/*# sourceMappingURL=main.scss.map */
+/* # sourceMappingURL=main.scss.map */
 .NormalCharacterStyle {
   font-family: Acumin Variable Concept;
   font-weight: bold;
   font-size: 59px;
   color: #000000;
-  color: rgb(0, 0, 0);
+  color: black;
 }
 
 .fall-fashion-1 {
-  padding: .5rem;
+  padding: 0.5rem;
+  float: left;
 }
 
-.paragraph {
+.fall-fashion-2 {
+  padding: 0.5rem;
   float: left;
+}
+
+.fall-fashion-3 {
+  padding: 0.5rem;
+  float: left;
+}
+
+.pstructure {
+  display: flex;
+  flex-direction: column;
 }
 
 h1 {
   margin-left: 20rem;
-  font-family: 'Francois One', sans-serif;
   float: left;
 }
 
@@ -42,8 +53,8 @@ li a {
 }
 
 li a:hover {
-  background-color: #fff500;
+  background-color: #FFF500;
   color: black;
 }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=main.css.map
